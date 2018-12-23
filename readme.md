@@ -106,6 +106,9 @@
 [splitChunks]:https://segmentfault.com/a/1190000015919928
 [splitChunks]:https://github.com/liangklfangl/commonsChunkPlugin_Config
 [splitChunks]:https://www.cnblogs.com/ufex/p/8758792.html
+[splitChunks]:https://www.jb51.net/article/147552.htm
+[splitChunks]:https://segmentfault.com/a/1190000013253553
+[splitChunks]:https://blog.csdn.net/napoleonxxx/article/details/81975186
 
 
 [tree-shakeing]:
